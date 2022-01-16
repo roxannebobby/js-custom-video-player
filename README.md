@@ -1,4 +1,4 @@
-# Custom Video Player
+# Custom Video Player Project Information
 
 This project uses HTML, CSS and Javascript to develop a custom player, including a customized control bar for playing, pausing and stopping the video.
 
